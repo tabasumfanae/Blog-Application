@@ -1,1 +1,1 @@
-# Blog-Application
+# blogPostProject
